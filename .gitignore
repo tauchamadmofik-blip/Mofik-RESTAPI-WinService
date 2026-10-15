@@ -1,0 +1,17 @@
+# File Hasil Kompilasi
+*.exe
+*.o
+*.obj
+
+# File Runtime Lokal (Log & SQLite)
+server.log
+config_db.sqlite
+
+# Direktori IDE / OS
+.vs/
+.vscode/
+x64/
+Debug/
+Release/
+Thumbs.db
+*.suo

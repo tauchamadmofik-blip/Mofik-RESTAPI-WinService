@@ -1,0 +1,3 @@
+sc create Win64RESTService binPath= "%DRIVE_DEVSRC%\GCC Projects\Projects\winrestapi_svc.exe" start= auto
+sc description Win64RESTService "Layanan REST API Windows Service ditenagai C++ & SQLite3"
+sc start Win64RESTService

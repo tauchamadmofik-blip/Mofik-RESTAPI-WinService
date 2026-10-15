@@ -1,0 +1,74 @@
+[Windows Service C++] Service berhasil dimulai.
+[Windows Service C++] Tabel CatatInOutRESTWeb siap digunakan.
+[Windows Service C++] Service dihentikan.
+[Windows Service C++] Service berhasil dimulai.
+[Windows Service C++] Tabel CatatInOutRESTWeb siap digunakan.
+[Windows Service C++] Service dihentikan.
+[Windows Service C++] Deskripsi service berhasil diperbarui.
+[Windows Service C++] Service berhasil dimulai.
+[Windows Service C++] Tabel CatatInOutRESTWeb siap digunakan.
+[Windows Service C++] Service dihentikan.
+[Windows Service C++] Service berhasil dimulai.
+[Windows Service C++] Tabel CatatInOutRESTWeb siap digunakan.
+[Windows Service C++] HTTP Server berhasil berjalan pada port 1968.
+[Windows Service C++] Menerima sinyal penghentian service.
+[Windows Service C++] Service berhasil dihentikan.
+[Windows Service C++] Service berhasil dimulai.
+[Windows Service C++] Tabel CatatInOutRESTWeb siap digunakan.
+[Windows Service C++] HTTP Server berhasil berjalan pada port 1968.
+[Windows Service C++] Menerima sinyal penghentian service.
+[Windows Service C++] Service berhasil dihentikan.
+[Windows Service C++] Service berhasil dimulai.
+[Windows Service C++] Tabel CatatInOutRESTWeb siap digunakan.
+[Windows Service C++] HTTP Server berhasil berjalan pada port 1968.
+[Windows Service C++] Menerima sinyal penghentian service.
+[Windows Service C++] Service berhasil dihentikan.
+[Windows Service C++] Service berhasil dimulai.
+[Windows Service C++] Tabel CatatInOutRESTWeb siap digunakan.
+[Windows Service C++] HTTP Server berhasil berjalan pada port 1968.
+2026-10-15 20:36:23Service berhasil dimulai. Working Directory: E:\GCC Projects\Projects
+2026-10-15 20:36:23Tabel CatatInOutRESTWeb siap digunakan pada: E:\GCC Projects\Projects\config_db.sqlite
+2026-10-15 20:36:23HTTP Server berhasil berjalan pada port 1968.
+2026-10-15 20:38:49Menerima sinyal penghentian service.
+2026-10-15 20:38:49Service berhasil dihentikan.
+2026-10-15 20:40:44|Service berhasil dimulai. Working Directory: E:\GCC Projects\Projects
+2026-10-15 20:40:44|Tabel CatatInOutRESTWeb siap digunakan pada: E:\GCC Projects\Projects\config_db.sqlite
+2026-10-15 20:40:44|HTTP Server berhasil berjalan pada port 1968.
+2026-10-15 20:55:18|Menerima sinyal penghentian service.
+2026-10-15 20:55:18|Service berhasil dihentikan.
+2026-10-15 20:55:51|Service berhasil dimulai. Working Directory: E:\GCC Projects\Projects
+2026-10-15 20:55:51|Tabel CatatInOutRESTWeb siap digunakan pada: E:\GCC Projects\Projects\config_db.sqlite
+2026-10-15 20:55:51|HTTP Server berhasil berjalan pada port 1968.
+2026-10-15 20:56:32|'ID Petugas: :ABCDE%2023942324234' berhasil ditambahkan ke Database
+2026-10-15 21:44:22|Menerima sinyal penghentian service.
+2026-10-15 21:44:22|Service berhasil dihentikan.
+2026-10-15 21:45:52|Service berhasil dimulai. Working Directory: E:\GCC Projects\Projects
+2026-10-15 21:45:52|Tabel CatatInOutRESTWeb siap digunakan pada: E:\GCC Projects\Projects\config_db.sqlite
+2026-10-15 21:45:52|HTTP Server berhasil berjalan pada port 1968.
+2026-10-15 22:00:40|Menerima sinyal penghentian service.
+2026-10-15 22:00:40|Service berhasil dihentikan.
+2026-10-15 22:01:52|Service berhasil dimulai. Working Directory: E:\GCC Projects\Projects
+2026-10-15 22:01:52|Tabel CatatInOutRESTWeb siap digunakan pada: E:\GCC Projects\Projects\config_db.sqlite
+2026-10-15 22:01:52|HTTP Server berhasil berjalan pada port 1968.
+2026-10-15 22:21:17|Menerima sinyal penghentian service.
+2026-10-15 22:21:17|Service berhasil dihentikan.
+2026-10-15 22:22:03|Service berhasil dimulai. Working Directory: E:\GCC Projects\Projects
+2026-10-15 22:22:03|Tabel CatatInOutRESTWeb siap digunakan pada: E:\GCC Projects\Projects\config_db.sqlite
+2026-10-15 22:22:03|HTTP Server berhasil berjalan pada port 1968.
+2026-10-15 22:25:32|Menerima sinyal penghentian service.
+2026-10-15 22:25:32|Service berhasil dihentikan.
+2026-10-15 22:30:09|Service berhasil dimulai. Working Directory: E:\GCC Projects\Projects
+2026-10-15 22:30:09|Tabel CatatInOutRESTWeb siap digunakan pada: E:\GCC Projects\Projects\config_db.sqlite
+2026-10-15 22:30:09|HTTP Server berhasil berjalan pada port 1968.
+2026-10-15 22:33:11|Menerima sinyal penghentian service.
+2026-10-15 22:33:11|Service berhasil dihentikan.
+2026-10-15 22:35:03|Service berhasil dimulai. Working Directory: E:\GCC Projects\Projects
+2026-10-15 22:35:03|Tabel CatatInOutRESTWeb siap digunakan pada: E:\GCC Projects\Projects\config_db.sqlite
+2026-10-15 22:35:03|HTTP Server berhasil berjalan pada port 1968.
+2026-10-15 22:44:50|Menerima sinyal penghentian service.
+2026-10-15 22:44:50|Service berhasil dihentikan.
+2026-10-15 22:45:01|Service berhasil dimulai. Working Directory: E:\GCC Projects\Projects
+2026-10-15 22:45:01|Tabel CatatInOutRESTWeb siap digunakan pada: E:\GCC Projects\Projects\config_db.sqlite
+2026-10-15 22:45:01|HTTP Server berhasil berjalan pada port 1968.
+2026-10-15 22:46:42|'ID Petugas: 04082001' berhasil ditambahkan ke Database
+2026-10-15 22:59:27|'ID Petugas: 04089983' berhasil ditambahkan ke Database
