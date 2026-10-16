@@ -1,0 +1,11 @@
+📂 GCC Projects/
+├── 📄 .gitignore
+├── 📄 LICENSE-MIT.License
+├── 📄 Makefile
+├── 📄 README.md
+├── 📄 client_demo.cpp
+├── 📄 config_db.sqlite
+├── 📄 installation.manual.doc
+├── 📄 server.log
+├── 📄 winrestapi_svc.cpp
+└── 📄 ProjectDirStructure.txt
